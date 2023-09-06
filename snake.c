@@ -2,7 +2,7 @@
 // Earl james Williams Aliñgasa (NeoTSZ on Github)
 
 // Inspiration comes from this video: 
-// https://www.youtube.com/watch?v=cUJE10XEjrU&t=565s
+// https://www.youtube.com/watch?v=cUJE10XEjrU
 
 /*============================================================*/
 
