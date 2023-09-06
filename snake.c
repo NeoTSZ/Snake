@@ -1,5 +1,5 @@
 
-// Earl james Williams Aliñgasa
+// Earl james Williams Aliñgasa (NeoTSZ on Github)
 
 /*============================================================*/
 
