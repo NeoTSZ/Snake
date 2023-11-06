@@ -159,6 +159,8 @@ void runGame(int *cells, int gridWidth) {
           renderGrid(cells, gridWidth);
           printf("\n\n:: Game Over! ::\n\n[Final Score: %d]\n", snakeSize - 3);
           printf("\nPress ANY key to return to the main menu.");
+          Sleep(1000);
+          fflush(stdin);
           getch();
           free(snake);
           printf("\33[?25h");
