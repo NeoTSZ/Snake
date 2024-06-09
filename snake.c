@@ -56,7 +56,7 @@
 #define DRAW_BODY           GREEN "\xFE" GO_LEFT(1)
 #define DRAW_HEAD           YELLOW "\xFE" GO_LEFT(1)
 #define DRAW_DEAD_PART      BLUE "\xFE" GO_LEFT(1)
-#define SHOW_BUTTON(X,Y) CYAN "[" #X "]\xFF" RESET_COLOR #Y
+#define SHOW_BUTTON(X,Y)    CYAN "[" #X "]\xFF" RESET_COLOR #Y
 
 /*============================================================*/
 
